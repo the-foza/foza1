@@ -25,12 +25,6 @@ http://dns.explouddev.com:80/live/992005733/61992005733/671.m3u8
 http://dns.explouddev.com:80/live/992005733/61992005733/670.m3u8
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="http://beststorage4you.com:80/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC HD
 http://dns.explouddev.com:80/live/992005733/61992005733/669.m3u8
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC LEG FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/AMC.png" group-title="Canais | Legendados",AMC LEG FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/559659.m3u8
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC LEG HD" tvg-logo="http://beststorage4you.com:80/logoscanais/AMC.png" group-title="Canais | Legendados",AMC LEG HD
-http://dns.explouddev.com:80/live/992005733/61992005733/559660.m3u8
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC LEG SD" tvg-logo="http://beststorage4you.com:80/logoscanais/AMC.png" group-title="Canais | Legendados",AMC LEG SD
-http://dns.explouddev.com:80/live/992005733/61992005733/559661.m3u8
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="http://beststorage4you.com:80/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC SD
 http://dns.explouddev.com:80/live/992005733/61992005733/668.m3u8
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet FHD
@@ -149,7 +143,7 @@ http://dns.explouddev.com:80/live/992005733/61992005733/373661.m3u8
 http://dns.explouddev.com:80/live/992005733/61992005733/146.m3u8
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" group-title="Canais | Filmes & Series",Canal Brasil HD
 http://dns.explouddev.com:80/live/992005733/61992005733/145.m3u8
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil SD" group-title="Canais | Filmes & Series",Canal Brasil SD
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil SD" tvg-logo="https://files.catbox.moe/bywqhv.png" group-title="Canais | Filmes & Series",Canal Brasil SD
 http://dns.explouddev.com:80/live/992005733/61992005733/626423.m3u8
 #EXTINF:-1 tvg-id="Canaldoboi.br" tvg-name="Canal do Boi FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/CANALDOBOI.png" group-title="Canais | Abertos",Canal do Boi FHD
 http://dns.explouddev.com:80/live/992005733/61992005733/364661.m3u8
@@ -175,7 +169,7 @@ http://dns.explouddev.com:80/live/992005733/61992005733/699.m3u8
 http://dns.explouddev.com:80/live/992005733/61992005733/21229.m3u8
 #EXTINF:-1 tvg-id="Canaluol.br" tvg-name="Canal UOL FHD" group-title="Canais | Noticias",Canal UOL FHD
 http://dns.explouddev.com:80/live/992005733/61992005733/590121.m3u8
-#EXTINF:-1 tvg-id="Canaluol.br" tvg-name="Canal UOL HD" group-title="Canais | Noticias",Canal UOL HD
+#EXTINF:-1 tvg-id="Canaluol.br" tvg-name="Canal UOL HD" tvg-logo="https://files.catbox.moe/97q26r.png" group-title="Canais | Noticias",Canal UOL HD
 http://dns.explouddev.com:80/live/992005733/61992005733/590122.m3u8
 #EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Canção Nova FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/CANCAONOVA.png" group-title="Canais | Religiosos",Canção Nova FHD
 http://dns.explouddev.com:80/live/992005733/61992005733/240806.m3u8
@@ -201,46 +195,6 @@ http://dns.explouddev.com:80/live/992005733/61992005733/110684.m3u8
 http://dns.explouddev.com:80/live/992005733/61992005733/368110.m3u8
 #EXTINF:-1 tvg-name="CGTN Documentary (CHINA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/250px-CGTN.png" group-title="Canais | Documentarios",CGTN Documentary (CHINA)
 http://dns.explouddev.com:80/live/992005733/61992005733/367044.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 1" tvg-logo="http://beststorage4you.com:/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 1
-http://dns.explouddev.com:80/live/992005733/61992005733/18253.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 10" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 10
-http://dns.explouddev.com:80/live/992005733/61992005733/560375.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 11" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 11
-http://dns.explouddev.com:80/live/992005733/61992005733/560376.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 12" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 12
-http://dns.explouddev.com:80/live/992005733/61992005733/560377.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 13" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 13
-http://dns.explouddev.com:80/live/992005733/61992005733/560378.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 14" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 14
-http://dns.explouddev.com:80/live/992005733/61992005733/560379.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 15" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 15
-http://dns.explouddev.com:80/live/992005733/61992005733/560380.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 16" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 16
-http://dns.explouddev.com:80/live/992005733/61992005733/560381.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 17" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 17
-http://dns.explouddev.com:80/live/992005733/61992005733/560382.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 18" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 18
-http://dns.explouddev.com:80/live/992005733/61992005733/560383.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 19" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 19
-http://dns.explouddev.com:80/live/992005733/61992005733/560384.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 2" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 2
-http://dns.explouddev.com:80/live/992005733/61992005733/18254.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 20" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 20
-http://dns.explouddev.com:80/live/992005733/61992005733/560385.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 3" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 3
-http://dns.explouddev.com:80/live/992005733/61992005733/18255.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 4" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 4
-http://dns.explouddev.com:80/live/992005733/61992005733/18256.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 5" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 5
-http://dns.explouddev.com:80/live/992005733/61992005733/18257.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 6" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 6
-http://dns.explouddev.com:80/live/992005733/61992005733/18258.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 7" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 7
-http://dns.explouddev.com:80/live/992005733/61992005733/18259.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 8" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 8
-http://dns.explouddev.com:80/live/992005733/61992005733/18260.m3u8
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 9" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 9
-http://dns.explouddev.com:80/live/992005733/61992005733/18261.m3u8
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax FHD
 http://dns.explouddev.com:80/live/992005733/61992005733/682.m3u8
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax H265" tvg-logo="http://beststorage4you.com:80/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax H265
@@ -509,120 +463,6 @@ http://dns.explouddev.com:80/live/992005733/61992005733/158.m3u8
 http://dns.explouddev.com:80/live/992005733/61992005733/157.m3u8
 #EXTINF:-1 tvg-id="Getv.br" tvg-name="GE TV HD" tvg-logo="http://beststorage4you.com:80/logoscanais/getv.png" group-title="Canais | Esportes",GE TV HD
 http://dns.explouddev.com:80/live/992005733/61992005733/615098.m3u8
-#EXTINF:-1 tvg-id="Globodf.br" tvg-name="Globo Brasilia FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo Brasilia FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2452.m3u8
-#EXTINF:-1 tvg-id="Globodf.br" tvg-name="Globo Brasilia H265" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo Brasilia H265
-http://dns.explouddev.com:80/live/992005733/61992005733/365115.m3u8
-#EXTINF:-1 tvg-id="Globodf.br" tvg-name="Globo Brasilia HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo Brasilia HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2451.m3u8
-#EXTINF:-1 tvg-id="Globodf.br" tvg-name="Globo Brasilia SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo Brasilia SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2450.m3u8
-#EXTINF:-1 tvg-id="Eptvcam.br" tvg-name="Globo EPTV Campinas FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Campinas FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2389.m3u8
-#EXTINF:-1 tvg-id="Eptvcam.br" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Campinas HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2388.m3u8
-#EXTINF:-1 tvg-id="Eptvcam.br" tvg-name="Globo EPTV Campinas SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Campinas SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2387.m3u8
-#EXTINF:-1 tvg-id="Eptvcentral.br" tvg-name="Globo EPTV Central Sao Carlos FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Central Sao Carlos FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2392.m3u8
-#EXTINF:-1 tvg-id="Eptvcentral.br" tvg-name="Globo EPTV Central Sao Carlos HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Central Sao Carlos HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2391.m3u8
-#EXTINF:-1 tvg-id="Eptvcentral.br" tvg-name="Globo EPTV Central Sao Carlos SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Central Sao Carlos SD
-http://dns.explouddev.com:80/live/992005733/61992005733/627393.m3u8
-#EXTINF:-1 tvg-id="Eptvribeirao.br" tvg-name="Globo EPTV Ribeirão Preto FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Ribeirão Preto FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2386.m3u8
-#EXTINF:-1 tvg-id="Eptvribeirao.br" tvg-name="Globo EPTV Ribeirão Preto HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Ribeirão Preto HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2385.m3u8
-#EXTINF:-1 tvg-id="Eptvribeirao.br" tvg-name="Globo EPTV Ribeirão Preto SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Ribeirão Preto SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2384.m3u8
-#EXTINF:-1 tvg-id="Eptvsulmg.br" tvg-name="Globo EPTV Sul de Minas FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Sul de Minas FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2383.m3u8
-#EXTINF:-1 tvg-id="Eptvsulmg.br" tvg-name="Globo EPTV Sul de Minas HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Sul de Minas HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2382.m3u8
-#EXTINF:-1 tvg-id="Eptvsulmg.br" tvg-name="Globo EPTV Sul de Minas SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo EPTV Sul de Minas SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2381.m3u8
-#EXTINF:-1 tvg-id="Intertvrj.br" tvg-name="Globo Inter TV Alto Litoral FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Inter TV Alto Litoral FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/112631.m3u8
-#EXTINF:-1 tvg-id="Intertvrj.br" tvg-name="Globo Inter TV Alto Litoral HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Inter TV Alto Litoral HD
-http://dns.explouddev.com:80/live/992005733/61992005733/112632.m3u8
-#EXTINF:-1 tvg-id="Intertvrj.br" tvg-name="Globo Inter TV Alto Litoral SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Inter TV Alto Litoral SD
-http://dns.explouddev.com:80/live/992005733/61992005733/112633.m3u8
-#EXTINF:-1 tvg-id="Intertvrn.br" tvg-name="Globo Inter TV Cabugi FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Inter TV Cabugi FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2437.m3u8
-#EXTINF:-1 tvg-id="Intertvrn.br" tvg-name="Globo Inter TV Cabugi HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Inter TV Cabugi HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2436.m3u8
-#EXTINF:-1 tvg-id="Intertvrn.br" tvg-name="Globo Inter TV Cabugi SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Inter TV Cabugi SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2435.m3u8
-#EXTINF:-1 tvg-id="Intertvmg.br" tvg-name="Globo Inter TV dos Vales SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Inter TV dos Vales SD
-http://dns.explouddev.com:80/live/992005733/61992005733/117422.m3u8
-#EXTINF:-1 tvg-id="Intertvmg.br" tvg-name="Globo Inter TV dos Vales FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Inter TV dos Vales FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/117420.m3u8
-#EXTINF:-1 tvg-id="Intertvmg.br" tvg-name="Globo Inter TV dos Vales HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Inter TV dos Vales HD
-http://dns.explouddev.com:80/live/992005733/61992005733/117421.m3u8
-#EXTINF:-1 tvg-id="Globomg.br" tvg-name="Globo INTER TV Grande Minas FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo INTER TV Grande Minas FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/274514.m3u8
-#EXTINF:-1 tvg-id="Globomg.br" tvg-name="Globo INTER TV Grande Minas HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo INTER TV Grande Minas HD
-http://dns.explouddev.com:80/live/992005733/61992005733/274515.m3u8
-#EXTINF:-1 tvg-id="Intertvrj.br" tvg-name="Globo Inter TV Serra Mar FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Inter TV Serra Mar FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/230061.m3u8
-#EXTINF:-1 tvg-id="Intertvrj.br" tvg-name="Globo Inter TV Serra Mar HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Inter TV Serra Mar HD
-http://dns.explouddev.com:80/live/992005733/61992005733/230060.m3u8
-#EXTINF:-1 tvg-id="Intertvrj.br" tvg-name="Globo Inter TV Serra Mar SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Inter TV Serra Mar SD
-http://dns.explouddev.com:80/live/992005733/61992005733/230059.m3u8
-#EXTINF:-1 tvg-id="Globomg.br" tvg-name="Globo Minas FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Minas FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2380.m3u8
-#EXTINF:-1 tvg-id="Globomg.br" tvg-name="Globo Minas H265" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Minas H265
-http://dns.explouddev.com:80/live/992005733/61992005733/2379.m3u8
-#EXTINF:-1 tvg-id="Globomg.br" tvg-name="Globo Minas HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Minas HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2378.m3u8
-#EXTINF:-1 tvg-id="Globomg.br" tvg-name="Globo Minas SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo Minas SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2377.m3u8
-#EXTINF:-1 tvg-id="Globope.br" tvg-name="Globo Nordeste FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Nordeste FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2428.m3u8
-#EXTINF:-1 tvg-id="Globope.br" tvg-name="Globo Nordeste HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Nordeste HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2427.m3u8
-#EXTINF:-1 tvg-id="Globope.br" tvg-name="Globo Nordeste SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Nordeste SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2426.m3u8
-#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Blumenau FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo NSC TV Blumenau FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2290.m3u8
-#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Blumenau H265" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo NSC TV Blumenau H265
-http://dns.explouddev.com:80/live/992005733/61992005733/360674.m3u8
-#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Blumenau HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo NSC TV Blumenau HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2289.m3u8
-#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Blumenau SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo NSC TV Blumenau SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2288.m3u8
-#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Centro Oeste FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo NSC TV Centro Oeste FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2458.m3u8
-#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Centro Oeste HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo NSC TV Centro Oeste HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2457.m3u8
-#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Centro Oeste SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo NSC TV Centro Oeste SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2456.m3u8
-#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Chapeco FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo NSC TV Chapeco FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2310.m3u8
-#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Chapeco HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo NSC TV Chapeco HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2309.m3u8
-#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Chapeco SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo NSC TV Chapeco SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2308.m3u8
-#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Criciuma FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo NSC TV Criciuma FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2296.m3u8
-#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Criciuma HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo NSC TV Criciuma HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2295.m3u8
-#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Criciuma SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo NSC TV Criciuma SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2294.m3u8
-#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Florianopolis FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo NSC TV Florianopolis FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2302.m3u8
-#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Florianopolis HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo NSC TV Florianopolis HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2301.m3u8
-#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Florianopolis SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo NSC TV Florianopolis SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2300.m3u8
-#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Joinville FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo NSC TV Joinville FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2305.m3u8
-#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Joinville HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo NSC TV Joinville HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2304.m3u8
-#EXTINF:-1 tvg-id="Globosc.br" tvg-name="Globo NSC TV Joinville SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo NSC TV Joinville SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2303.m3u8
-#EXTINF:-1 tvg-name="Globo Pernambuco HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Pernambuco HD
-http://dns.explouddev.com:80/live/992005733/61992005733/538100.m3u8
 #EXTINF:-1 tvg-id="Globoplaynovelas.br" tvg-name="Globo Play Novelas FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/VIVA.png" group-title="Canais | Variedades",Globo Play Novelas FHD
 http://dns.explouddev.com:80/live/992005733/61992005733/2537.m3u8
 #EXTINF:-1 tvg-id="Globoplaynovelas.br" tvg-name="Globo Play Novelas HD" tvg-logo="http://beststorage4you.com:80/logoscanais/VIVA.png" group-title="Canais | Variedades",Globo Play Novelas HD
@@ -651,11 +491,11 @@ http://dns.explouddev.com:80/live/992005733/61992005733/2328.m3u8
 http://dns.explouddev.com:80/live/992005733/61992005733/2327.m3u8
 #EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Pelotas SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo RBS TV Pelotas SD
 http://dns.explouddev.com:80/live/992005733/61992005733/2326.m3u8
-#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV POA FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo RBS TV POA FHD
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV POA FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo RBS Porto Alegre FHD
 http://dns.explouddev.com:80/live/992005733/61992005733/2313.m3u8
-#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV POA HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo RBS TV POA HD
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV POA HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo RBS Porto Alegre  HD
 http://dns.explouddev.com:80/live/992005733/61992005733/2312.m3u8
-#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV POA SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo RBS TV POA SD
+#EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV POA SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo RBS Porto Alegre SD
 http://dns.explouddev.com:80/live/992005733/61992005733/2311.m3u8
 #EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Santa Maria FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo RBS TV Santa Maria FHD
 http://dns.explouddev.com:80/live/992005733/61992005733/2334.m3u8
@@ -667,38 +507,6 @@ http://dns.explouddev.com:80/live/992005733/61992005733/2332.m3u8
 http://dns.explouddev.com:80/live/992005733/61992005733/389118.m3u8
 #EXTINF:-1 tvg-id="Globors.br" tvg-name="Globo RBS TV Uruguaiana SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo RBS TV Uruguaiana SD
 http://dns.explouddev.com:80/live/992005733/61992005733/389119.m3u8
-#EXTINF:-1 tvg-id="Globorr.br" tvg-name="Globo Rede Amazonica Boa Vista FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Boa Vista FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2355.m3u8
-#EXTINF:-1 tvg-id="Globorr.br" tvg-name="Globo Rede Amazonica Boa Vista HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Boa Vista HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2354.m3u8
-#EXTINF:-1 tvg-id="Globorr.br" tvg-name="Globo Rede Amazonica Boa Vista SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Boa Vista SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2353.m3u8
-#EXTINF:-1 tvg-id="Globoam.br" tvg-name="Globo Rede Amazonica Manaus FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Manaus FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2358.m3u8
-#EXTINF:-1 tvg-id="Globoam.br" tvg-name="Globo Rede Amazonica Manaus HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Manaus HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2357.m3u8
-#EXTINF:-1 tvg-id="Globoam.br" tvg-name="Globo Rede Amazonica Manaus SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Manaus SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2356.m3u8
-#EXTINF:-1 tvg-id="Globoro.br" tvg-name="Globo Rede Amazonica Porto Velho FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Porto Velho FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2361.m3u8
-#EXTINF:-1 tvg-id="Globoro.br" tvg-name="Globo Rede Amazonica Porto Velho HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Porto Velho HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2360.m3u8
-#EXTINF:-1 tvg-id="Globoro.br" tvg-name="Globo Rede Amazonica Porto Velho SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Porto Velho SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2359.m3u8
-#EXTINF:-1 tvg-id="Globoac.br" tvg-name="Globo Rede Amazonica Rio Branco FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Rio Branco FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2364.m3u8
-#EXTINF:-1 tvg-id="Globoac.br" tvg-name="Globo Rede Amazonica Rio Branco HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Rio Branco HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2363.m3u8
-#EXTINF:-1 tvg-id="Globoac.br" tvg-name="Globo Rede Amazonica Rio Branco SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo Rede Amazonica Rio Branco SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2362.m3u8
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo RJ FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2376.m3u8
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ H265" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo RJ H265
-http://dns.explouddev.com:80/live/992005733/61992005733/2375.m3u8
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo RJ HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2374.m3u8
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo RJ SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2373.m3u8
 #EXTINF:-1 tvg-id="Globopr.br" tvg-name="Globo RPC Cascavel FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo RPC Cascavel FHD
 http://dns.explouddev.com:80/live/992005733/61992005733/2299.m3u8
 #EXTINF:-1 tvg-id="Globopr.br" tvg-name="Globo RPC Cascavel HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo RPC Cascavel HD
@@ -751,234 +559,12 @@ http://dns.explouddev.com:80/live/992005733/61992005733/289884.m3u8
 http://dns.explouddev.com:80/live/992005733/61992005733/289883.m3u8
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo SP SD
 http://dns.explouddev.com:80/live/992005733/61992005733/289885.m3u8
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo SP UHD
-http://dns.explouddev.com:80/live/992005733/61992005733/289882.m3u8
-#EXTINF:-1 tvg-id="Globogo.br" tvg-name="Globo TV Anhanguera Anapolis FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Anhanguera Anapolis FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/619149.m3u8
-#EXTINF:-1 tvg-id="Globogo.br" tvg-name="Globo TV Anhanguera Anapolis HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Anhanguera Anapolis HD
-http://dns.explouddev.com:80/live/992005733/61992005733/389370.m3u8
-#EXTINF:-1 tvg-id="Globogo.br" tvg-name="Globo TV Anhanguera Anapolis SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Anhanguera Anapolis SD
-http://dns.explouddev.com:80/live/992005733/61992005733/619162.m3u8
-#EXTINF:-1 tvg-id="Globogo.br" tvg-name="Globo TV Anhanguera Goiania FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Anhanguera Goiania FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/619346.m3u8
-#EXTINF:-1 tvg-id="Globogo.br" tvg-name="Globo TV Anhanguera Goiania HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Anhanguera Goiania HD
-http://dns.explouddev.com:80/live/992005733/61992005733/619347.m3u8
-#EXTINF:-1 tvg-id="Globogo.br" tvg-name="Globo TV Anhanguera Goiania SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Anhanguera Goiania SD
-http://dns.explouddev.com:80/live/992005733/61992005733/619348.m3u8
-#EXTINF:-1 tvg-id="Globoto.br" tvg-name="Globo TV Anhanguera Palmas FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Anhanguera Palmas FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/385607.m3u8
-#EXTINF:-1 tvg-id="Globoto.br" tvg-name="Globo TV Anhanguera Palmas HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Anhanguera Palmas HD
-http://dns.explouddev.com:80/live/992005733/61992005733/385609.m3u8
-#EXTINF:-1 tvg-id="Globoto.br" tvg-name="Globo TV Anhanguera Palmas SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Anhanguera Palmas SD
-http://dns.explouddev.com:80/live/992005733/61992005733/385608.m3u8
-#EXTINF:-1 tvg-id="Globogo.br" tvg-name="Globo TV Anhanguera Rio Verde FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Anhanguera Rio Verde FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/619327.m3u8
-#EXTINF:-1 tvg-id="Globogo.br" tvg-name="Globo TV Anhanguera Rio Verde HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Anhanguera Rio Verde HD
-http://dns.explouddev.com:80/live/992005733/61992005733/619344.m3u8
-#EXTINF:-1 tvg-id="Globogo.br" tvg-name="Globo TV Anhanguera Rio Verde SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Anhanguera Rio Verde SD
-http://dns.explouddev.com:80/live/992005733/61992005733/619345.m3u8
-#EXTINF:-1 tvg-id=".br" tvg-name="Globo TV Asa Branca FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Asa Branca FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/166720.m3u8
-#EXTINF:-1 tvg-id=".br" tvg-name="Globo TV Asa Branca HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Asa Branca HD
-http://dns.explouddev.com:80/live/992005733/61992005733/166721.m3u8
-#EXTINF:-1 tvg-id=".br" tvg-name="Globo TV Asa Branca SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Asa Branca SD
-http://dns.explouddev.com:80/live/992005733/61992005733/166722.m3u8
-#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Bahia FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Bahia FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2425.m3u8
-#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Bahia HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Bahia HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2424.m3u8
-#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Bahia SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Bahia SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2423.m3u8
-#EXTINF:-1 tvg-id="Globopb.br" tvg-name="GLOBO TV Cabo branco FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",GLOBO TV Cabo branco FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/286195.m3u8
-#EXTINF:-1 tvg-id="Globopb.br" tvg-name="GLOBO TV Cabo branco H265" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",GLOBO TV Cabo branco H265
-http://dns.explouddev.com:80/live/992005733/61992005733/362896.m3u8
-#EXTINF:-1 tvg-id="Globopb.br" tvg-name="GLOBO TV Cabo branco HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",GLOBO TV Cabo branco HD
-http://dns.explouddev.com:80/live/992005733/61992005733/286196.m3u8
-#EXTINF:-1 tvg-id="Globopb.br" tvg-name="Globo TV Cabo branco SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Cabo branco SD
-http://dns.explouddev.com:80/live/992005733/61992005733/286197.m3u8
-#EXTINF:-1 tvg-id="Globomt.br" tvg-name="Globo TV Centro America FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Centro America FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2455.m3u8
-#EXTINF:-1 tvg-id="Globomt.br" tvg-name="Globo TV Centro America HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Centro America HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2454.m3u8
-#EXTINF:-1 tvg-id="Globomt.br" tvg-name="Globo TV Centro America SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Centro America SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2453.m3u8
-#EXTINF:-1 tvg-id="Globopi.br" tvg-name="Globo TV Clube Teresina FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Clube Teresina FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/215610.m3u8
-#EXTINF:-1 tvg-id="Globopi.br" tvg-name="Globo TV Clube Teresina HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Clube Teresina HD
-http://dns.explouddev.com:80/live/992005733/61992005733/215611.m3u8
-#EXTINF:-1 tvg-id="Globopi.br" tvg-name="Globo TV Clube Teresina SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Clube Teresina SD
-http://dns.explouddev.com:80/live/992005733/61992005733/215612.m3u8
-#EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="Globo TV Diario FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Diario FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/171.m3u8
-#EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="Globo TV Diario HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Diario HD
-http://dns.explouddev.com:80/live/992005733/61992005733/170.m3u8
-#EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="Globo TV Diario Mogi das Cruzes FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Diario Mogi das Cruzes FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2404.m3u8
-#EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="Globo TV Diario Mogi das Cruzes HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Diario Mogi das Cruzes HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2403.m3u8
-#EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="Globo TV Diario Mogi das Cruzes SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Diario Mogi das Cruzes SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2402.m3u8
-#EXTINF:-1 tvg-id="Tvfronteirasp.br" tvg-name="Globo TV Fronteira Presidente Prudente FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Fronteira Presidente Prudente FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/239899.m3u8
-#EXTINF:-1 tvg-id="Tvfronteirasp.br" tvg-name="Globo TV Fronteira Presidente Prudente HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Fronteira Presidente Prudente HD
-http://dns.explouddev.com:80/live/992005733/61992005733/239900.m3u8
-#EXTINF:-1 tvg-id="Tvfronteirasp.br" tvg-name="Globo TV Fronteira Presidente Prudente SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Fronteira Presidente Prudente SD
-http://dns.explouddev.com:80/live/992005733/61992005733/239901.m3u8
-#EXTINF:-1 tvg-id="Globoes.br" tvg-name="Globo TV Gazeta Alagoas FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Gazeta Alagoas FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2440.m3u8
-#EXTINF:-1 tvg-id="Globoes.br" tvg-name="Globo TV Gazeta Alagoas HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Gazeta Alagoas HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2439.m3u8
-#EXTINF:-1 tvg-id="Globoes.br" tvg-name="Globo TV Gazeta Alagoas SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Gazeta Alagoas SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2438.m3u8
 #EXTINF:-1 tvg-id="Globoes.br" tvg-name="Globo TV Gazeta Sul FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo TV Gazeta Sul FHD
 http://dns.explouddev.com:80/live/992005733/61992005733/2319.m3u8
 #EXTINF:-1 tvg-id="Globoes.br" tvg-name="Globo TV Gazeta Sul HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo TV Gazeta Sul HD
 http://dns.explouddev.com:80/live/992005733/61992005733/2318.m3u8
 #EXTINF:-1 tvg-id="Globoes.br" tvg-name="Globo TV Gazeta Sul SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sul",Globo TV Gazeta Sul SD
 http://dns.explouddev.com:80/live/992005733/61992005733/2317.m3u8
-#EXTINF:-1 tvg-id="Globoes.br" tvg-name="Globo TV Gazeta Vitoria FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Gazeta Vitoria FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2395.m3u8
-#EXTINF:-1 tvg-id="Globoes.br" tvg-name="Globo TV Gazeta Vitoria HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Gazeta Vitoria HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2394.m3u8
-#EXTINF:-1 tvg-id="Globoes.br" tvg-name="Globo TV Gazeta Vitoria SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Gazeta Vitoria SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2393.m3u8
-#EXTINF:-1 tvg-id="Tvgranderio.br" tvg-name="GLOBO TV GRANDE RIO HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",GLOBO TV GRANDE RIO HD
-http://dns.explouddev.com:80/live/992005733/61992005733/371788.m3u8
-#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="Globo TV Integração Araxa FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Integração Araxa FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/389371.m3u8
-#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="Globo TV Integração Araxa HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Integração Araxa HD
-http://dns.explouddev.com:80/live/992005733/61992005733/389372.m3u8
-#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="Globo TV Integração Araxa SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Integração Araxa SD
-http://dns.explouddev.com:80/live/992005733/61992005733/389373.m3u8
-#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="Globo TV Integracao Juiz de Fora FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Integracao Juiz de Fora FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/234852.m3u8
-#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="Globo TV Integracao Juiz de Fora HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Integracao Juiz de Fora HD
-http://dns.explouddev.com:80/live/992005733/61992005733/234853.m3u8
-#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="Globo TV Integracao Juiz de Fora SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Integracao Juiz de Fora SD
-http://dns.explouddev.com:80/live/992005733/61992005733/234854.m3u8
-#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="Globo TV Integracao Uberaba FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Integracao Uberaba FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2401.m3u8
-#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="Globo TV Integracao Uberaba HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Integracao Uberaba HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2400.m3u8
-#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="Globo TV Integracao Uberaba SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Integracao Uberaba SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2399.m3u8
-#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="Globo TV Integracao Uberlandia FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Integracao Uberlandia FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2410.m3u8
-#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="Globo TV Integracao Uberlandia HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Integracao Uberlandia HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2409.m3u8
-#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="Globo TV Integracao Uberlandia SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Integracao Uberlandia SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2408.m3u8
-#EXTINF:-1 tvg-id="Globopa.br" tvg-name="Globo TV Liberal Belem FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo TV Liberal Belem FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2367.m3u8
-#EXTINF:-1 tvg-id="Globopa.br" tvg-name="Globo TV Liberal Belem HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo TV Liberal Belem HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2366.m3u8
-#EXTINF:-1 tvg-id="Globopa.br" tvg-name="Globo TV Liberal Belem SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Norte",Globo TV Liberal Belem SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2365.m3u8
-#EXTINF:-1 tvg-id="Globoma.br" tvg-name="Globo TV Mirante Cocais FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Mirante Cocais FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2446.m3u8
-#EXTINF:-1 tvg-id="Globoma.br" tvg-name="Globo TV Mirante Cocais HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Mirante Cocais HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2445.m3u8
-#EXTINF:-1 tvg-id="Globoma.br" tvg-name="Globo TV Mirante Cocais SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Mirante Cocais SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2444.m3u8
-#EXTINF:-1 tvg-id="Globoma.br" tvg-name="Globo TV Mirante Sao Luis FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Mirante Sao Luis FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/518709.m3u8
-#EXTINF:-1 tvg-id="Globoma.br" tvg-name="Globo TV Mirante Sao Luis HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Mirante Sao Luis HD
-http://dns.explouddev.com:80/live/992005733/61992005733/518710.m3u8
-#EXTINF:-1 tvg-id="Globoma.br" tvg-name="Globo TV Mirante Sao Luis SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Mirante Sao Luis SD
-http://dns.explouddev.com:80/live/992005733/61992005733/518711.m3u8
-#EXTINF:-1 tvg-id="Globoms.br" tvg-name="Globo TV Morena FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Morena FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/274984.m3u8
-#EXTINF:-1 tvg-id="Globoms.br" tvg-name="Globo TV Morena HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Morena HD
-http://dns.explouddev.com:80/live/992005733/61992005733/274986.m3u8
-#EXTINF:-1 tvg-id="Globoms.br" tvg-name="Globo TV Morena SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Morena SD
-http://dns.explouddev.com:80/live/992005733/61992005733/274988.m3u8
-#EXTINF:-1 tvg-name="Globo TV Paraiba HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Paraiba HD
-http://dns.explouddev.com:80/live/992005733/61992005733/590127.m3u8
-#EXTINF:-1 tvg-id="Tvriosul.br" tvg-name="Globo TV Rio Sul FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Rio Sul FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2337.m3u8
-#EXTINF:-1 tvg-id="Tvriosul.br" tvg-name="Globo TV Rio Sul HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Rio Sul HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2336.m3u8
-#EXTINF:-1 tvg-id="Tvriosul.br" tvg-name="Globo TV Rio Sul SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Rio Sul SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2335.m3u8
-#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Santa Cruz FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Santa Cruz FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/208574.m3u8
-#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Santa Cruz HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Santa Cruz HD
-http://dns.explouddev.com:80/live/992005733/61992005733/208575.m3u8
-#EXTINF:-1 tvg-id="Globose.br" tvg-name="Globo TV Sergipe FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Sergipe FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2443.m3u8
-#EXTINF:-1 tvg-id="Globose.br" tvg-name="Globo TV Sergipe HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Sergipe HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2442.m3u8
-#EXTINF:-1 tvg-id="Globose.br" tvg-name="Globo TV Sergipe SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Sergipe SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2441.m3u8
-#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Subae HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Subae HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2314.m3u8
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo TV Subae FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Subae FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/390951.m3u8
-#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Subae SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Subae SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2315.m3u8
-#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Sudoeste FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Sudoeste FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2431.m3u8
-#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Sudoeste HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Sudoeste HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2430.m3u8
-#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Sudoeste SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Sudoeste SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2429.m3u8
-#EXTINF:-1 tvg-id="Tvtapajos.br" tvg-name="Globo TV Tapajos FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Tapajos FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/648923.m3u8
-#EXTINF:-1 tvg-id="Tvtapajos.br" tvg-name="Globo TV Tapajos HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Tapajos HD
-http://dns.explouddev.com:80/live/992005733/61992005733/648924.m3u8
-#EXTINF:-1 tvg-id="Tvtapajos.br" tvg-name="Globo TV Tapajos SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Centro-Oeste",Globo TV Tapajos SD
-http://dns.explouddev.com:80/live/992005733/61992005733/648925.m3u8
-#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="Globo TV TEM Bauru FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV TEM Bauru FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2419.m3u8
-#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="Globo TV TEM Bauru HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV TEM Bauru HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2418.m3u8
-#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="Globo TV TEM Bauru SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV TEM Bauru SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2417.m3u8
-#EXTINF:-1 tvg-id="Tvtemita.br" tvg-name="Globo TV TEM Itapetininga HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV TEM Itapetininga HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2406.m3u8
-#EXTINF:-1 tvg-id="Tvtemita.br" tvg-name="Globo TV TEM Itapetininga SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV TEM Itapetininga SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2405.m3u8
-#EXTINF:-1 tvg-id="Tvtemsjrp.br" tvg-name="Globo TV TEM Sao Jose do Rio Preto FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV TEM Sao Jose do Rio Preto FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2398.m3u8
-#EXTINF:-1 tvg-id="Tvtemsjrp.br" tvg-name="Globo TV TEM Sao Jose do Rio Preto HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV TEM Sao Jose do Rio Preto HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2397.m3u8
-#EXTINF:-1 tvg-id="Tvtemsjrp.br" tvg-name="Globo TV TEM Sao Jose do Rio Preto SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV TEM Sao Jose do Rio Preto SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2396.m3u8
-#EXTINF:-1 tvg-id="Tvtemsorocaba.br" tvg-name="Globo TV TEM Sorocaba FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV TEM Sorocaba FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2340.m3u8
-#EXTINF:-1 tvg-id="Tvtemsorocaba.br" tvg-name="Globo TV TEM Sorocaba HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV TEM Sorocaba HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2339.m3u8
-#EXTINF:-1 tvg-id="Tvtemsorocaba.br" tvg-name="Globo TV TEM Sorocaba SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV TEM Sorocaba SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2338.m3u8
-#EXTINF:-1 tvg-id="Tvtribunasp.br" tvg-name="Globo TV Tribuna Santos FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Tribuna Santos FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2343.m3u8
-#EXTINF:-1 tvg-id="Tvtribunasp.br" tvg-name="Globo TV Tribuna Santos HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Tribuna Santos HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2342.m3u8
-#EXTINF:-1 tvg-id="Tvtribunasp.br" tvg-name="Globo TV Tribuna Santos SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Tribuna Santos SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2341.m3u8
-#EXTINF:-1 tvg-id="Tvvanguarda.br" tvg-name="Globo TV Vanguarda S J Campos FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Vanguarda S J Campos FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2422.m3u8
-#EXTINF:-1 tvg-id="Tvvanguarda.br" tvg-name="Globo TV Vanguarda S J Campos HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Vanguarda S J Campos HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2421.m3u8
-#EXTINF:-1 tvg-id="Tvvanguarda.br" tvg-name="Globo TV Vanguarda S J Campos SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Vanguarda S J Campos SD
-http://dns.explouddev.com:80/live/992005733/61992005733/2420.m3u8
-#EXTINF:-1 tvg-id="Tvvanguarda.br" tvg-name="Globo TV Vanguarda Taubate FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Vanguarda Taubate FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2413.m3u8
-#EXTINF:-1 tvg-id="Tvvanguarda.br" tvg-name="Globo TV Vanguarda Taubate HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo TV Vanguarda Taubate HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2412.m3u8
-#EXTINF:-1 tvg-id="Adultos.br" tvg-name="Globo TV Verdes Mares Cariri FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Verdes Mares Cariri FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/599831.m3u8
-#EXTINF:-1 tvg-id="Adultos.br" tvg-name="Globo TV Verdes Mares Cariri HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Verdes Mares Cariri HD
-http://dns.explouddev.com:80/live/992005733/61992005733/625811.m3u8
-#EXTINF:-1 tvg-id="Adultos.br" tvg-name="Globo TV Verdes Mares Cariri SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Verdes Mares Cariri SD
-http://dns.explouddev.com:80/live/992005733/61992005733/625812.m3u8
-#EXTINF:-1 tvg-id="3Palavrinhas.br" tvg-name="Globo TV Verdes Mares Fortaleza CE FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Verdes Mares Fortaleza CE FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/2433.m3u8
-#EXTINF:-1 tvg-id="3Palavrinhas.br" tvg-name="Globo TV Verdes Mares Fortaleza CE HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Verdes Mares Fortaleza CE HD
-http://dns.explouddev.com:80/live/992005733/61992005733/2434.m3u8
-#EXTINF:-1 tvg-id="3Palavrinhas.br" tvg-name="Globo TV Verdes Mares Fortaleza CE SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Verdes Mares Fortaleza CE SD
-http://dns.explouddev.com:80/live/992005733/61992005733/362064.m3u8
 #EXTINF:-1 tvg-id="Adultos.br" tvg-name="GloboNews FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBONEWS.png" group-title="Canais | Noticias",GloboNews FHD
 http://dns.explouddev.com:80/live/992005733/61992005733/479.m3u8
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews H265" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBONEWS.png" group-title="Canais | Noticias",GloboNews H265
@@ -1037,12 +623,6 @@ http://dns.explouddev.com:80/live/992005733/61992005733/18751.m3u8
 http://dns.explouddev.com:80/live/992005733/61992005733/18753.m3u8
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | HBO",HBO HD
 http://dns.explouddev.com:80/live/992005733/61992005733/18752.m3u8
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO LEG FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | Legendados",HBO LEG FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/543987.m3u8
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO LEG HD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | Legendados",HBO LEG HD
-http://dns.explouddev.com:80/live/992005733/61992005733/543988.m3u8
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO LEG SD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | Legendados",HBO LEG SD
-http://dns.explouddev.com:80/live/992005733/61992005733/543989.m3u8
 #EXTINF:-1 tvg-id="hbomax1.br" tvg-name="HBO Max 1 FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 1 FHD
 http://dns.explouddev.com:80/live/992005733/61992005733/121598.m3u8
 #EXTINF:-1 tvg-id="hbomax1.br" tvg-name="HBO Max 1 HD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBOMAX.png" group-title="Canais | HBO MAX",HBO Max 1 HD
@@ -1091,32 +671,14 @@ http://dns.explouddev.com:80/live/992005733/61992005733/18771.m3u8
 http://dns.explouddev.com:80/live/992005733/61992005733/21254.m3u8
 #EXTINF:-1 tvg-id="Hbomundi.br" tvg-name="HBO Mundi HD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | HBO",HBO Mundi HD
 http://dns.explouddev.com:80/live/992005733/61992005733/18772.m3u8
-#EXTINF:-1 tvg-id="Hbomundi.br" tvg-name="HBO MUNDI LEG FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | Legendados",HBO MUNDI LEG FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/559668.m3u8
-#EXTINF:-1 tvg-id="Hbomundi.br" tvg-name="HBO MUNDI LEG HD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | Legendados",HBO MUNDI LEG HD
-http://dns.explouddev.com:80/live/992005733/61992005733/559669.m3u8
-#EXTINF:-1 tvg-id="Hbomundi.br" tvg-name="HBO MUNDI LEG SD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | Legendados",HBO MUNDI LEG SD
-http://dns.explouddev.com:80/live/992005733/61992005733/559670.m3u8
 #EXTINF:-1 tvg-id="Hbomundi.br" tvg-name="HBO Mundi SD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | HBO",HBO Mundi SD
 http://dns.explouddev.com:80/live/992005733/61992005733/18774.m3u8
-#EXTINF:-1 tvg-name="HBO PLUS LEG FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | Legendados",HBO PLUS LEG FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/559662.m3u8
-#EXTINF:-1 tvg-name="HBO PLUS LEG HD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | Legendados",HBO PLUS LEG HD
-http://dns.explouddev.com:80/live/992005733/61992005733/559663.m3u8
-#EXTINF:-1 tvg-name="HBO PLUS LEG SD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | Legendados",HBO PLUS LEG SD
-http://dns.explouddev.com:80/live/992005733/61992005733/559664.m3u8
 #EXTINF:-1 tvg-id="Hbopop.br" tvg-name="HBO POP FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | HBO",HBO POP FHD
 http://dns.explouddev.com:80/live/992005733/61992005733/18779.m3u8
 #EXTINF:-1 tvg-id="Hbopop.br" tvg-name="HBO POP H265" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | HBO",HBO POP H265
 http://dns.explouddev.com:80/live/992005733/61992005733/21256.m3u8
 #EXTINF:-1 tvg-id="Hbopop.br" tvg-name="HBO POP HD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | HBO",HBO POP HD
 http://dns.explouddev.com:80/live/992005733/61992005733/18780.m3u8
-#EXTINF:-1 tvg-id="Hbopop.br" tvg-name="HBO POP LEG FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | Legendados",HBO POP LEG FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/559671.m3u8
-#EXTINF:-1 tvg-id="Hbopop.br" tvg-name="HBO POP LEG HD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | Legendados",HBO POP LEG HD
-http://dns.explouddev.com:80/live/992005733/61992005733/559672.m3u8
-#EXTINF:-1 tvg-id="Hbopop.br" tvg-name="HBO POP LEG SD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | Legendados",HBO POP LEG SD
-http://dns.explouddev.com:80/live/992005733/61992005733/559673.m3u8
 #EXTINF:-1 tvg-id="Hbopop.br" tvg-name="HBO POP SD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | HBO",HBO POP SD
 http://dns.explouddev.com:80/live/992005733/61992005733/18782.m3u8
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | HBO",HBO SD
@@ -1125,12 +687,6 @@ http://dns.explouddev.com:80/live/992005733/61992005733/18754.m3u8
 http://dns.explouddev.com:80/live/992005733/61992005733/18767.m3u8
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature HD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | HBO",HBO Signature HD
 http://dns.explouddev.com:80/live/992005733/61992005733/18768.m3u8
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE LEG FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | Legendados",HBO SIGNATURE LEG FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/559665.m3u8
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE LEG HD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | Legendados",HBO SIGNATURE LEG HD
-http://dns.explouddev.com:80/live/992005733/61992005733/559666.m3u8
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE LEG SD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | Legendados",HBO SIGNATURE LEG SD
-http://dns.explouddev.com:80/live/992005733/61992005733/559667.m3u8
 #EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature SD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | HBO",HBO Signature SD
 http://dns.explouddev.com:80/live/992005733/61992005733/18770.m3u8
 #EXTINF:-1 tvg-id="Hboxtreme.br" tvg-name="HBO Xtreme FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | HBO",HBO Xtreme FHD
@@ -1139,12 +695,6 @@ http://dns.explouddev.com:80/live/992005733/61992005733/18775.m3u8
 http://dns.explouddev.com:80/live/992005733/61992005733/18777.m3u8
 #EXTINF:-1 tvg-id="Hboxtreme.br" tvg-name="HBO Xtreme HD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | HBO",HBO Xtreme HD
 http://dns.explouddev.com:80/live/992005733/61992005733/18776.m3u8
-#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-name="HBO XTREME LEG FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | Legendados",HBO XTREME LEG FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/559674.m3u8
-#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-name="HBO XTREME LEG HD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | Legendados",HBO XTREME LEG HD
-http://dns.explouddev.com:80/live/992005733/61992005733/559675.m3u8
-#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-name="HBO XTREME LEG SD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | Legendados",HBO XTREME LEG SD
-http://dns.explouddev.com:80/live/992005733/61992005733/559676.m3u8
 #EXTINF:-1 tvg-id="Hboxtreme.br" tvg-name="HBO Xtreme SD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | HBO",HBO Xtreme SD
 http://dns.explouddev.com:80/live/992005733/61992005733/18778.m3u8
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/HBO.png" group-title="Canais | HBO",HBO+ FHD
@@ -1205,12 +755,6 @@ http://dns.explouddev.com:80/live/992005733/61992005733/692.m3u8
 http://dns.explouddev.com:80/live/992005733/61992005733/691.m3u8
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD" tvg-logo="http://beststorage4you.com:80/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix HD
 http://dns.explouddev.com:80/live/992005733/61992005733/690.m3u8
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix LEG FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/MEGAPIX.png" group-title="Canais | Legendados",Megapix LEG FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/543975.m3u8
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix LEG HD" tvg-logo="http://beststorage4you.com:80/logoscanais/MEGAPIX.png" group-title="Canais | Legendados",Megapix LEG HD
-http://dns.explouddev.com:80/live/992005733/61992005733/543976.m3u8
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix LEG SD" tvg-logo="http://beststorage4you.com:80/logoscanais/MEGAPIX.png" group-title="Canais | Legendados",Megapix LEG SD
-http://dns.explouddev.com:80/live/992005733/61992005733/543977.m3u8
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix SD" tvg-logo="http://beststorage4you.com:80/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix SD
 http://dns.explouddev.com:80/live/992005733/61992005733/689.m3u8
 #EXTINF:-1 tvg-id="Modoviagem.br" tvg-name="Modo Viagem FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/MODOVIAGEM.png" group-title="Canais | Variedades",Modo Viagem FHD
@@ -1761,24 +1305,12 @@ http://dns.explouddev.com:80/live/992005733/61992005733/613115.m3u8
 http://dns.explouddev.com:80/live/992005733/61992005733/613116.m3u8
 #EXTINF:-1 tvg-name="SBT+ Novelas HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SBT.png" group-title="Canais | SBT",SBT+ Novelas HD
 http://dns.explouddev.com:80/live/992005733/61992005733/390578.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY LEG FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SONYCHANNEL.png" group-title="Canais | Legendados",SONY LEG FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/559677.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY LEG HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SONYCHANNEL.png" group-title="Canais | Legendados",SONY LEG HD
-http://dns.explouddev.com:80/live/992005733/61992005733/559678.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY LEG SD" tvg-logo="http://beststorage4you.com:80/logoscanais/SONYCHANNEL.png" group-title="Canais | Legendados",SONY LEG SD
-http://dns.explouddev.com:80/live/992005733/61992005733/559679.m3u8
 #EXTINF:-1 tvg-id="Space.br" tvg-name="Space FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space FHD
 http://dns.explouddev.com:80/live/992005733/61992005733/707.m3u8
 #EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space HD
 http://dns.explouddev.com:80/live/992005733/61992005733/705.m3u8
 #EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD²" tvg-logo="http://beststorage4you.com:80/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space HD²
 http://dns.explouddev.com:80/live/992005733/61992005733/706.m3u8
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space LEG FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPACE.png" group-title="Canais | Legendados",Space LEG FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/543966.m3u8
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space LEG HD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPACE.png" group-title="Canais | Legendados",Space LEG HD
-http://dns.explouddev.com:80/live/992005733/61992005733/543967.m3u8
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space LEG SD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPACE.png" group-title="Canais | Legendados",Space LEG SD
-http://dns.explouddev.com:80/live/992005733/61992005733/543968.m3u8
 #EXTINF:-1 tvg-id="Space.br" tvg-name="Space SD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space SD
 http://dns.explouddev.com:80/live/992005733/61992005733/704.m3u8
 #EXTINF:-1 tvg-id="Space.br" tvg-name="Space UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space UHD
@@ -1865,12 +1397,6 @@ http://dns.explouddev.com:80/live/992005733/61992005733/713.m3u8
 http://dns.explouddev.com:80/live/992005733/61992005733/712.m3u8
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="http://beststorage4you.com:80/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal HD
 http://dns.explouddev.com:80/live/992005733/61992005733/711.m3u8
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal LEG FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Legendados",Studio Universal LEG FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/543984.m3u8
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal LEG HD" tvg-logo="http://beststorage4you.com:80/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Legendados",Studio Universal LEG HD
-http://dns.explouddev.com:80/live/992005733/61992005733/543985.m3u8
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal LEG SD" tvg-logo="http://beststorage4you.com:80/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Legendados",Studio Universal LEG SD
-http://dns.explouddev.com:80/live/992005733/61992005733/543986.m3u8
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal SD" tvg-logo="http://beststorage4you.com:80/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal SD
 http://dns.explouddev.com:80/live/992005733/61992005733/710.m3u8
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal UHD
@@ -1897,12 +1423,6 @@ http://dns.explouddev.com:80/live/992005733/61992005733/612.m3u8
 http://dns.explouddev.com:80/live/992005733/61992005733/620.m3u8
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Cult HD
 http://dns.explouddev.com:80/live/992005733/61992005733/618.m3u8
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult LEG FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Cult LEG FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/543954.m3u8
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult LEG HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Cult LEG HD
-http://dns.explouddev.com:80/live/992005733/61992005733/543955.m3u8
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult LEG SD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Cult LEG SD
-http://dns.explouddev.com:80/live/992005733/61992005733/543956.m3u8
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult SD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Cult SD
 http://dns.explouddev.com:80/live/992005733/61992005733/617.m3u8
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun FHD
@@ -1911,12 +1431,6 @@ http://dns.explouddev.com:80/live/992005733/61992005733/625.m3u8
 http://dns.explouddev.com:80/live/992005733/61992005733/21281.m3u8
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun HD
 http://dns.explouddev.com:80/live/992005733/61992005733/623.m3u8
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun LEG FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Fun LEG FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/559656.m3u8
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun LEG HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Fun LEG HD
-http://dns.explouddev.com:80/live/992005733/61992005733/559657.m3u8
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun LEG SD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Fun LEG SD
-http://dns.explouddev.com:80/live/992005733/61992005733/559658.m3u8
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun SD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun SD
 http://dns.explouddev.com:80/live/992005733/61992005733/622.m3u8
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca FHD
@@ -1925,12 +1439,6 @@ http://dns.explouddev.com:80/live/992005733/61992005733/630.m3u8
 http://dns.explouddev.com:80/live/992005733/61992005733/21282.m3u8
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca HD
 http://dns.explouddev.com:80/live/992005733/61992005733/628.m3u8
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca LEG FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Pipoca LEG FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/543960.m3u8
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca LEG HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Pipoca LEG HD
-http://dns.explouddev.com:80/live/992005733/61992005733/543961.m3u8
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca LEG SD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Pipoca LEG SD
-http://dns.explouddev.com:80/live/992005733/61992005733/543962.m3u8
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca SD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca SD
 http://dns.explouddev.com:80/live/992005733/61992005733/627.m3u8
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium FHD
@@ -1939,12 +1447,6 @@ http://dns.explouddev.com:80/live/992005733/61992005733/635.m3u8
 http://dns.explouddev.com:80/live/992005733/61992005733/21283.m3u8
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium HD
 http://dns.explouddev.com:80/live/992005733/61992005733/633.m3u8
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium LEG FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Premium LEG FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/543963.m3u8
-#EXTINF:-1 tvg-id="Adultos.br" tvg-name="Telecine Premium LEG HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Premium LEG HD
-http://dns.explouddev.com:80/live/992005733/61992005733/543964.m3u8
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium LEG SD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Premium LEG SD
-http://dns.explouddev.com:80/live/992005733/61992005733/543965.m3u8
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium SD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium SD
 http://dns.explouddev.com:80/live/992005733/61992005733/632.m3u8
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch FHD
@@ -1953,12 +1455,6 @@ http://dns.explouddev.com:80/live/992005733/61992005733/589.m3u8
 http://dns.explouddev.com:80/live/992005733/61992005733/21284.m3u8
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch HD
 http://dns.explouddev.com:80/live/992005733/61992005733/587.m3u8
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch LEG FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Touch LEG FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/543957.m3u8
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch LEG HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Touch LEG HD
-http://dns.explouddev.com:80/live/992005733/61992005733/543958.m3u8
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch LEG SD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Legendados",Telecine Touch LEG SD
-http://dns.explouddev.com:80/live/992005733/61992005733/543959.m3u8
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch SD" tvg-logo="http://beststorage4you.com:80/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch SD
 http://dns.explouddev.com:80/live/992005733/61992005733/586.m3u8
 #EXTINF:-1 tvg-name="Tennis Channel - Canal de Tenis HD" tvg-logo="http://beststorage4you.com/logoscanais/tennis.png" group-title="Canais | Esportes",Tennis Channel - Canal de Tenis HD
@@ -1979,12 +1475,6 @@ http://dns.explouddev.com:80/live/992005733/61992005733/733.m3u8
 http://dns.explouddev.com:80/live/992005733/61992005733/732.m3u8
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT HD
 http://dns.explouddev.com:80/live/992005733/61992005733/731.m3u8
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT LEG FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TNT.png" group-title="Canais | Legendados",TNT LEG FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/543969.m3u8
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT LEG HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TNT.png" group-title="Canais | Legendados",TNT LEG HD
-http://dns.explouddev.com:80/live/992005733/61992005733/543970.m3u8
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT LEG SD" tvg-logo="http://beststorage4you.com:80/logoscanais/TNT.png" group-title="Canais | Legendados",TNT LEG SD
-http://dns.explouddev.com:80/live/992005733/61992005733/543971.m3u8
 #EXTINF:-1 tvg-id="Tntnovelas.br" tvg-name="TNT Novelas FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT Novelas FHD
 http://dns.explouddev.com:80/live/992005733/61992005733/264555.m3u8
 #EXTINF:-1 tvg-id="Tntnovelas.br" tvg-name="TNT Novelas HD" tvg-logo="http://beststorage4you.com:80/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT Novelas HD
@@ -2085,8 +1575,6 @@ http://dns.explouddev.com:80/live/992005733/61992005733/364779.m3u8
 http://dns.explouddev.com:80/live/992005733/61992005733/217050.m3u8
 #EXTINF:-1 tvg-name="TV Zimbo HD" group-title="Canais | Noticias",TV Zimbo HD
 http://dns.explouddev.com:80/live/992005733/61992005733/590123.m3u8
-#EXTINF:-1 tvg-id="Tv5monde.br" tvg-name="TV5 Monde" group-title="Canais | França",TV5 Monde
-http://dns.explouddev.com:80/live/992005733/61992005733/541176.m3u8
 #EXTINF:-1 tvg-name="TVE Bahia HD" tvg-logo="data:image/jpeg;base64,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" group-title="Canais | Abertos",TVE Bahia HD
 http://dns.explouddev.com:80/live/992005733/61992005733/309182.m3u8
 #EXTINF:-1 tvg-id="Tvbrasilrs.br" tvg-name="TVE FHD" group-title="Canais | Abertos",TVE FHD
@@ -2105,12 +1593,6 @@ http://dns.explouddev.com:80/live/992005733/61992005733/250107.m3u8
 http://dns.explouddev.com:80/live/992005733/61992005733/250111.m3u8
 #EXTINF:-1 tvg-id="Ufc.br" tvg-name="UFC Fight Pass-Loop HD" tvg-logo="http://beststorage4you.com:80/logoscanais/UFCFIGHTPASS.png" group-title="Canais | Esportes",UFC Fight Pass-Loop HD
 http://dns.explouddev.com:80/live/992005733/61992005733/290595.m3u8
-#EXTINF:-1 tvg-id="Universaltv.br" tvg-name="Universal LEG FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/UNIVERSALTV.png" group-title="Canais | Legendados",Universal LEG FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/543981.m3u8
-#EXTINF:-1 tvg-id="Universaltv.br" tvg-name="Universal LEG HD" tvg-logo="http://beststorage4you.com:80/logoscanais/UNIVERSALTV.png" group-title="Canais | Legendados",Universal LEG HD
-http://dns.explouddev.com:80/live/992005733/61992005733/543982.m3u8
-#EXTINF:-1 tvg-id="Universaltv.br" tvg-name="Universal LEG SD" tvg-logo="http://beststorage4you.com:80/logoscanais/UNIVERSALTV.png" group-title="Canais | Legendados",Universal LEG SD
-http://dns.explouddev.com:80/live/992005733/61992005733/543983.m3u8
 #EXTINF:-1 tvg-id="Universalpremiere.br" tvg-name="Universal Premiere HD" tvg-logo="http://beststorage4you.com:80/logoscanais/universalpremiere.png" group-title="Canais | Filmes & Series",Universal Premiere HD
 http://dns.explouddev.com:80/live/992005733/61992005733/552459.m3u8
 #EXTINF:-1 tvg-id="Universalpremiere.br" tvg-name="Universal Premiere SD" tvg-logo="http://beststorage4you.com:80/logoscanais/universalpremiere.png" group-title="Canais | Filmes & Series",Universal Premiere SD
@@ -2133,12 +1615,6 @@ http://dns.explouddev.com:80/live/992005733/61992005733/748.m3u8
 http://dns.explouddev.com:80/live/992005733/61992005733/746.m3u8
 #EXTINF:-1 tvg-id="Warner.br" tvg-name="Warner Channel SD" tvg-logo="http://beststorage4you.com:80/logoscanais/WARNERCHANNEL.png" group-title="Canais | Filmes & Series",Warner Channel SD
 http://dns.explouddev.com:80/live/992005733/61992005733/745.m3u8
-#EXTINF:-1 tvg-id="Warner.br" tvg-name="Warner LEG FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/WARNERCHANNEL.png" group-title="Canais | Legendados",Warner LEG FHD
-http://dns.explouddev.com:80/live/992005733/61992005733/543978.m3u8
-#EXTINF:-1 tvg-id="Warner.br" tvg-name="Warner LEG HD" tvg-logo="http://beststorage4you.com:80/logoscanais/WARNERCHANNEL.png" group-title="Canais | Legendados",Warner LEG HD
-http://dns.explouddev.com:80/live/992005733/61992005733/543979.m3u8
-#EXTINF:-1 tvg-id="Warner.br" tvg-name="Warner LEG SD" tvg-logo="http://beststorage4you.com:80/logoscanais/WARNERCHANNEL.png" group-title="Canais | Legendados",Warner LEG SD
-http://dns.explouddev.com:80/live/992005733/61992005733/543980.m3u8
 #EXTINF:-1 tvg-id="Woohoo.br" tvg-name="Woohoo FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/WOOHOO.png" group-title="Canais | Variedades",Woohoo FHD
 http://dns.explouddev.com:80/live/992005733/61992005733/2541.m3u8
 #EXTINF:-1 tvg-id="Woohoo.br" tvg-name="Woohoo HD" tvg-logo="http://beststorage4you.com:80/logoscanais/WOOHOO.png" group-title="Canais | Variedades",Woohoo HD
